@@ -1,10 +1,10 @@
-Basics of Computing 
+# Basics of Computing
 
-Pre-requisites:
+## Pre-requisites:
 * know how to turn on a computer
 * know how to install software
 
-Topics:
+## Topics:
 * functions
 * integration
 * ...
